@@ -2,7 +2,7 @@
 
 ##
 ## OmniSSH 1.0rc1 -- SSH Cluster(-like) Management Tool by M. N. Busigin <mbusigin@gmail.com>
-## Copyright 2009-2010 COMAND Solutions
+## Copyright 2009-2010 COMAND Solutions, Inc.
 ## Portions Copyright 2010, Matt Busigin
 ##     
 ## This is a program which is used to execute one command on many servers in a cluster
@@ -90,7 +90,7 @@ my %argument_parameters =
 my $USAGE = <<EOF
 
 OmniSSH 1.0rc1 -- SSH Cluster(-like) Management Tool by M. N. Busigin <mbusigin\@gmail.com>
-Copyright 2009-2010 COMAND Solutions
+Copyright 2009-2010 COMAND Solutions, Inc.
 Portions Copyright 2010, Matt Busigin
 
 This is a program which is used to execute one command or upload files on many servers in a 
