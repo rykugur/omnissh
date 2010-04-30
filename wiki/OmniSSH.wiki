@@ -23,7 +23,7 @@ When you start a job, the following things happen:
 =Usage=
 {{{
 OmniSSH 1.0rc1 -- SSH Cluster(-like) Management Tool by M. N. Busigin <mbusigin@gmail.com>
-Copyright 2009-2010 COMAND Solutions
+Copyright 2009-2010 COMAND Solutions, Inc.
 Portions Copyright 2010, Matt Busigin
 This is a program which is used to execute one command or upload files on
 many servers in a cluster in a parallel, reliable and well documented
