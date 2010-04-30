@@ -1,4 +1,4 @@
-#OmniSSH  - Introduction & Tutorial
+#summary OmniSSH  - Introduction & Tutorial
 =Introduction=
 
 This is a Perl program which is used to execute one command on many servers
